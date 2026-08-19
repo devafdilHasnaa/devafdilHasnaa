@@ -1,5 +1,5 @@
   <div align="center">
-  <img src="https://i.pinimg.com/originals/63/8c/3c/638c3c2396cea471c13d0026f5988970.gif" alt="Header GIF" width="500" />
+  <img src="https://i.pinimg.com/originals/63/8c/3c/638c3c2396cea471c13d0026f5988970.gif" alt="Header GIF" width="800" height="200" />
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Stack+Sans+Notch&weight=600&size=24&pause=500&duration=2500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Afdil+Hasnaa;Full-Stack+Developer" />
