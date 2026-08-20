@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Stack+Sans+Notch&weight=600&size=24&pause=500&duration=2500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Afdil+Hasnaa;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
-<br/>
-
 <div >
   <div align="center"><h2>Tech Stack</h2></div>
   
