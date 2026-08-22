@@ -5,7 +5,7 @@
 </div>
 
 <div >
-  <div align="center"><h2>Tech Stack</h2></div>
+  <div><h2>Tech Stack</h2></div>
   
   <b>Languages and Frameworks</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=py,php,html,css,js,laravel,react" alt="Languages and Frameworks" />
