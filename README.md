@@ -3,7 +3,13 @@
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Stack+Sans+Notch&weight=600&size=24&pause=500&duration=2500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Afdil+Hasnaa;Full-Stack+Developer" alt="Typing SVG" />
 </div>
+<div >
+  <div><h2>About Me</h2></div>
+  <p>Holder of a Specialized Technician Diploma in Digital Development (Web Full-Stack option). 
+Currently pursuing a Bachelor's degree in Software Engineering.
+Passionate about building things end-to-end , from back-end logic to front-end interfaces.</p>
 
+</div>
 <div >
   <div><h2>Tech Stack</h2></div>
   
